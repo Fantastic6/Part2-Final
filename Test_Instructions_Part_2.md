@@ -25,8 +25,6 @@ Click either:
 1. Single Step Switch Button: Run one instruction at a time and increment the PC by 1. 
 2. Run button: Run the whole program. 
 
-Note: You can get the machine code inside the program translate.java. We just converted the machine code to short type. 
-
 ## LDR
 
 Instruction: 000001 01 00 0 00001 (1281)

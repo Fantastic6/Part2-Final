@@ -21,6 +21,8 @@ This class serves as the assembler. It translates the instruction to machine cod
 
 It takes the instruction from the interface (Controller) and turns it into a short value for the CPU to process. 
 
+Note: You can get the machine code inside the program translate.java. We just converted the machine code to short type. 
+
 ## cache.java
 
 Implemented following the specifications:
