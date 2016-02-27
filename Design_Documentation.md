@@ -6,6 +6,13 @@ First, we added a row of fields for the condition codes.
 
 Second, we also added a command prompt at the bottom for users to type in the instruction and run a program. 
 
+We added four buttons:
+
+1. ON/OFF: Turn the program off and set all the registers equal to 0. 
+2. S.I.T: Single Instruction Test. It will set PC to 1 and store the instruction into mem[1].
+3. Run: Run the whole program you load in. 
+4. Load: It will load the instructions into memory and set PC to the position of the first instruction. 
+
 We have two new classes:
 
 ## Translate.java
