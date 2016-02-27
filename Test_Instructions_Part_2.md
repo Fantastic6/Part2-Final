@@ -1,5 +1,24 @@
 # Test Instructions - Part 2
 
+Three ways to use the interface:
+
+## One Instruction At a Time
+
+1. Put in the instruction in the prompt. Click SIT - Single Instruction Test. This will set PC to 1 and store the instruction into mem[1].
+
+## Run instructions from the File
+
+2. Put the name of the file in the prompt:
+
+The name of the file is: testing.txt
+
+Click Load. It will load the instructions into memory and set PC to the position of the first instruction. 
+
+Click either: 
+
+1. Single Step Switch Button: Run one instruction at a time and increment the PC by 1. 
+2. Run button: Run the whole program. 
+
 ## LDR
 
 Instruction: 000001 01 00 0 00001 (1281)
