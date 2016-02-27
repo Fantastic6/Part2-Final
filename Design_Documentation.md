@@ -10,7 +10,7 @@ We have two new classes:
 
 ## Translate.java
 
-This class serves as a compiler for the processor. 
+This class serves as the assembler. It translates the instruction to machine code and convert it to a short type. 
 
 It takes the instruction from the interface (Controller) and turns it into a short value for the CPU to process. 
 
