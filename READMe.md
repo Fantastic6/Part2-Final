@@ -21,5 +21,5 @@ We will have four classes and two more:
 2. Controller.java
 3. Memory.java
 4. Main.java
-* 5. Translate.java
-* 6. cache.java
+5. Translate.java
+6. cache.java
