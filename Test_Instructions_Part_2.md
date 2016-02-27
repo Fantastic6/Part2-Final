@@ -4,11 +4,11 @@ Three ways to use the interface:
 
 ## One Instruction At a Time
 
-1. Put in the instruction in the prompt. Click SIT - Single Instruction Test. This will set PC to 1 and store the instruction into mem[1].
+Put in the instruction in the prompt. Click SIT - Single Instruction Test. This will set PC to 1 and store the instruction into mem[1].
 
 ## Run instructions from the File
 
-2. Put the name of the file in the prompt:
+Put the name of the file in the prompt:
 
 The name of the file is: testing.txt
 
