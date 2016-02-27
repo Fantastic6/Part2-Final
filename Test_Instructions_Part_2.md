@@ -1,6 +1,6 @@
 # Test Instructions - Part 2
 
-Note (For mac users): We have a ... (OFF) button. It will turn off "OUR" computer and set all registers to 0. Then you can turn it back on by clicking on it. It will go to on. 
+Note (For mac users): We have a ... (OFF) button. It will turn off "OUR" computer and set all registers to 0. Then you can turn it back on by clicking on it. It will go to ON. 
 
 Note (For windows users): The button will say OFF. 
 
